@@ -1,3 +1,7 @@
+### Version 4:
+- Added experimental `pip` support by using `requirements.txt` in the root of the mod folder.
+  > See: https://pip.pypa.io/en/latest/user_guide/#requirements-files for more info.
+
 ### Version 3:
 - Fixed concurrency issue when adding or removing Python event-listeners while executing an event.
 - Fixed `java2pi(Object[] args)` call in Events API causing `ClassCastException`.
