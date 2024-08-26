@@ -1,3 +1,6 @@
+### Version 5:
+- Improvements & fixes to `pip` support.
+
 ### Version 4:
 - Added experimental `pip` support by using `requirements.txt` in the root of the mod folder.
   > See: https://pip.pypa.io/en/latest/user_guide/#requirements-files for more info.
