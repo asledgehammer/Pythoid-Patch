@@ -1,3 +1,6 @@
+### Version 6:
+- Fixed critical flaw from allowing proper reloading of mods entirely.
+
 ### Version 5:
 - Improvements & fixes to `pip` support.
 
