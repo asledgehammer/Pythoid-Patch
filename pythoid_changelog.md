@@ -1,3 +1,7 @@
+### Version 7:
+- Added `com.asledgehammer.Pythoid.getEvent(event_id: str) -> zombie.Lua.Event`
+- Added `get_event(event_id: str) -> zombie.Lua.Event` global proxy
+
 ### Version 6:
 - Fixed critical flaw from allowing proper reloading of mods entirely.
 
